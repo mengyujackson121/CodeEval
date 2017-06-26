@@ -1,0 +1,27 @@
+121212
+123456789
+111111
+222222
+121212
+333333
+123123
+128128
+
+account
+
+function : check username
+function ; check password
+function : check address
+function : list of question 1
+function : list of question 2
+
+all work -> submit -> mySQL
+
+update information
+function : check right username
+function ; check password ->store new one
+function : check address -> store new_one
+function : list of question 1
+function : list of question 2
+all work -> submit -> update mySQL
+
